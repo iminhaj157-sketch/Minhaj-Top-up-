@@ -1,5 +1,5 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME Minhaj Top up.com
 // =======================================================
 var website_name = Minhaj 
 
