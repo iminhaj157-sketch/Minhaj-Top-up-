@@ -11,7 +11,7 @@ var telegram_channel_link = "telegram channel link"; Minhaj Top up
 // =======================================================
 // TELEGRAM GROUP LINK https://t.me/MinhajTopup1
 // =======================================================
-var telegram_group_link = "telegram group link";https://t.me/MinhajTopup1
+var telegram_group_link = "telegram group link"https://t.me/+QEjNNV3VgdhmYzg9
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // ======================================================
