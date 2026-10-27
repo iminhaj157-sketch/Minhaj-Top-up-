@@ -4,7 +4,7 @@
 var website_name = Minhaj 
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL LINK t.me/MinhajTopup
 // =======================================================
 var telegram_channel_link = "telegram channel link";
 
