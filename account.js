@@ -9,9 +9,9 @@ var website_name = Minhaj
 var telegram_channel_link = "telegram channel link"; Minhaj Top up 
 
 // =======================================================
-// TELEGRAM GROUP LINK https:https://t.me/+QEjNNV3VgdhmYzg9
+// TELEGRAM GROUP LINK https:https:/t.me/+XqFkrenBt4UwNjk1
 // =======================================================
-var telegram_group_link = "telegram group link"https://t.me/+QEjNNV3VgdhmYzg9
+var telegram_group_link = "telegram group link//t.me/+QEjNNV3VgdhmYzg9
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // ======================================================
