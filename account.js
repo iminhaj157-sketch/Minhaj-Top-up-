@@ -6,12 +6,12 @@ var website_name = Minhaj
 // =======================================================
 // TELEGRAM CHANNEL LINK t.me/MinhajTopup
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "telegram channel link";@MinhajTopup
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP LINK @MinhajTopup
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "telegram group link";@MinhajTopup
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
