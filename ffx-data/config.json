@@ -2,6 +2,11 @@
   "logo": null,
   "ffBanner": "ff-banner-1793951712449.jpg",
   "ffPackages": null,
-  "banners": null,
+  "banners": [
+    "default:Banner 1.jpg",
+    "default:Banner 2.jpg",
+    "default:Banner 3.jpg",
+    "banner-1793951844386-5929.jpg"
+  ],
   "quick": null
 }
