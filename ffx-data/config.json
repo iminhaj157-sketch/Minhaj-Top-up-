@@ -7,7 +7,20 @@
     "default:Banner 3.jpg",
     "banner-1793951844386-5929.jpg"
   ],
-  "quick": null,
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": "https://t.me/MinhajTopup1"
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ],
   "images": null,
   "prod": {
     "uid": {
