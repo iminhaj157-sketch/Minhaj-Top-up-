@@ -121,6 +121,43 @@
       ]
     },
     "wm": {
+      "packages": [
+        {
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 155
+        },
+        {
+          "label": "2X WEEKLY",
+          "name": "2X WEEKLY",
+          "price": 310
+        },
+        {
+          "label": "3X WEEKLY",
+          "name": "3X WEEKLY",
+          "price": 465
+        },
+        {
+          "label": "MONTHLY",
+          "name": "MONTHLY",
+          "price": 770
+        },
+        {
+          "label": "2X MONTHLY",
+          "name": "2X MONTHLY",
+          "price": 1540
+        },
+        {
+          "label": "1X WEEKLY+1X MONTHLY",
+          "name": "1X WEEKLY+1X MONTHLY",
+          "price": 925
+        },
+        {
+          "label": "3X WEEKLY+1X MONTHLY",
+          "name": "3X WEEKLY+1X MONTHLY",
+          "price": 1235
+        }
+      ],
       "rules": [
         "সঠিক প্লেয়ার আইডি দিয়ে অর্ডার করুন। ভুল আইডিতে টপআপ হয়ে গেলে কর্তৃপক্ষ দায়ী থাকবে না।",
         "অর্ডার করার আগে আইডির নাম চেক করে নিন।",
