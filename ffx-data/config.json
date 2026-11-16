@@ -27,17 +27,17 @@
         {
           "label": "WEEKLY",
           "name": "WEEKLY",
-          "price": 155
+          "price": 150
         },
         {
           "label": "MONTHLY",
           "name": "MONTHLY",
-          "price": 790
+          "price": 770
         },
         {
           "label": "25 Diamond",
           "name": "25 Diamond",
-          "price": 22
+          "price": 20
         },
         {
           "label": "50 Diamond",
@@ -47,7 +47,7 @@
         {
           "label": "115 Diamond",
           "name": "115 Diamond",
-          "price": 79
+          "price": 80
         },
         {
           "label": "240 Diamond",
@@ -57,7 +57,7 @@
         {
           "label": "355 Diamond",
           "name": "355 Diamond",
-          "price": 237
+          "price": 240
         },
         {
           "label": "480 Diamond",
