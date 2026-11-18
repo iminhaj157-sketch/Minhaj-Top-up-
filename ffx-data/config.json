@@ -27,7 +27,7 @@
         {
           "label": "WEEKLY",
           "name": "WEEKLY",
-          "price": 150
+          "price": 100
         },
         {
           "label": "MONTHLY",
@@ -96,30 +96,6 @@
         }
       ]
     },
-    "wl": {
-      "packages": [
-        {
-          "label": "1X Weekly Lite",
-          "name": "1X Weekly Lite",
-          "price": 40
-        },
-        {
-          "label": "2X Weekly Lite",
-          "name": "2X Weekly Lite",
-          "price": 80
-        },
-        {
-          "label": "3X Weekly Lite",
-          "name": "3X Weekly Lite",
-          "price": 110
-        },
-        {
-          "label": "5X Weekly Lite",
-          "name": "5X Weekly Lite",
-          "price": 200
-        }
-      ]
-    },
     "wm": {
       "packages": [
         {
@@ -164,6 +140,30 @@
         "টপআপ সম্পন্ন হতে সাধারণত ২ সেকেন্ড থেকে কয়েক মিনিট সময় লাগতে পারে।",
         "একবার অর্ডার সাবমিট করার পর বাতিল বা রিফান্ড করা হয় না।",
         "যেকোনো সমস্যায় অর্ডারের স্ক্রিনশট সহ টেলিগ্রামে যোগাযোগ করুন।"
+      ]
+    },
+    "wl": {
+      "packages": [
+        {
+          "label": "1X Weekly Lite",
+          "name": "1X Weekly Lite",
+          "price": 40
+        },
+        {
+          "label": "2X Weekly Lite",
+          "name": "2X Weekly Lite",
+          "price": 80
+        },
+        {
+          "label": "3X Weekly Lite",
+          "name": "3X Weekly Lite",
+          "price": 110
+        },
+        {
+          "label": "5X Weekly Lite",
+          "name": "5X Weekly Lite",
+          "price": 200
+        }
       ]
     }
   },
